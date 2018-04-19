@@ -645,6 +645,12 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
 .progress-bar.progress-bar-warning4 {
     background: #BD0000;
 }
+.progress-bar.progress-bar-success5 {
+    background: #00006E;
+}
+.progress-bar.progress-bar-warning5 {
+    background: #0000A1;
+}
 .no-marg{
 	margin:0;
 }
